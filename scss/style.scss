@@ -36,7 +36,7 @@ h5{
 }
 /* Layout */
 .ba-main{
-	max-width: 1730px
+	
 }
 .ba-main-header{
 	background: url(../img/first-img.jpg) no-repeat left top;
@@ -127,6 +127,7 @@ h5{
 .ba-choose-section{
 	background: url(../img/second-img.jpg) no-repeat left top;
 	padding-bottom: 50px;
+	background-size: cover;
 }
 .ba-choose{
 	display: flex;
@@ -212,6 +213,7 @@ h5{
 .ba-book-section{
 	background: url(../img/third-img.jpg) no-repeat left top;
 	padding: 100px 0;
+	background-size: cover;
 }
 .ba-book{
 	display: flex;
@@ -240,10 +242,11 @@ h5{
 .ba-book-section-second{
 	background: url(../img/four-img.jpg) no-repeat left top;
 	padding: 100px 0;
+	background-size: cover;
 }
 .ba-tourist-section{
 	background: url(../img/five-img.jpg) no-repeat left top;
-	
+	background-size: cover;
 }
 .ba-tourist{
 	display: flex;
