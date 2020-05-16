@@ -1,0 +1,7 @@
+@font-face {
+	font-family: "Aleo-Regular";
+	src: url("../fonts/Aleo-Font/Aleo/Aleo-Regular.otf") format("otf"),
+			 url("../fonts/Aleo-Font/Aleo/aleo-regular-webfont.woff2") format("woff2"),
+			 url("../fonts/Aleo-Font/Aleo/aleo-regular-webfont.woff") format("woff");
+  }
+  
