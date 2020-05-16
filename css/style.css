@@ -620,7 +620,8 @@ h5 {
   max-width: 1730px; }
 
 .ba-main-header {
-  background: url(../img/first-img.jpg) no-repeat left top; }
+  background: url(../img/first-img.jpg) no-repeat left top;
+  background-size: cover; }
 
 .ba-container {
   padding-left: 20px;
